@@ -1,0 +1,6 @@
+
+Start: Sat, 7 Feb 2015 8:00:00 -0800
+End: Sat, 7 Feb 2015 23:08:27 -0800 
+Tasks: Research php for a few days. Finish multtable.php file and start on login.php.
+
+
