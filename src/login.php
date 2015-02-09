@@ -1,3 +1,22 @@
+<?php
+session_start();
+
+function getValue($array, $key) {
+	if (isset($array[$key])) {
+		return $array[$key];
+	}
+
+	return false;
+}
+
+$logout = getValue($_GET, "logout"); 
+
+if ($logout) {
+	session_unset(); 
+	session_destroy(); 
+}
+?>
+
 <!DOCTYPE html>
 <html>
 <head>
