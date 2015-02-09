@@ -1,3 +1,7 @@
+Start: Sun, 8 Feb 2015 13:30:00 -0800
+End: Sun, 8 Feb 2015 21:33:01 -0800 
+Tasks: Read up on php sessions. Complete login, content1, and content2 php files
+
 Start: Sun, 8 Feb 2015 9:00:00 -0800
 End: Sun, 8 Feb 2015 12:38:39 -0800 
 Tasks: Finish loopback.php
